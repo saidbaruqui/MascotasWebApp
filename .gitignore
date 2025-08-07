@@ -1,0 +1,18 @@
+# Archivos de configuración y temporales de Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Carpetas de compilación
+bin/
+obj/
+.vs/
+
+# Otros archivos no deseados
+*.log
+*.pdb
+*.cache
+*.dbmdl
+*.sqlite
+*.zip
